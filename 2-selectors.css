@@ -1,0 +1,26 @@
+a[href]
+{
+    color:red;
+}
+
+a[target="_blank"]{
+    color: green;
+
+}
+input[type="text"]
+{
+    background-color: red;
+}
+input[type="tel"]
+{
+    background-color: green;
+}
+input[type="password"]
+{
+    background-color: violet;
+}
+input[type="submit"]
+{
+    background-color: blue;
+    color: white;
+}
